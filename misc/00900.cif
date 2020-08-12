@@ -1,0 +1,23 @@
+data_Si [110] nx 2 ny 1 nz 1
+_cell_length_a               7.679180
+_cell_length_b               7.679180
+_cell_length_c               3.839590
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1	 0.386594	 0.276178	 0.000000 
+Si2	 0.490816	 0.853142	 0.000000 
+Si3	 0.340841	 0.446931	 0.500000 
+Si4	 0.536569	 0.682389	 0.500000 
+Si5	 0.869557	 0.405587	 0.000000 
+Si6	 0.007853	 0.723732	 0.000000 
+Si7	 0.823804	 0.576340	 0.500000 
+Si8	 0.053606	 0.552979	 0.500000 
+#                 ---end-of-data-block---

@@ -1,0 +1,28 @@
+data_Pt structure along [001] nx 2 ny 2 nz 1
+_cell_length_a               8.360000
+_cell_length_b               8.360000
+_cell_length_c               4.180000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co1	 0.847544	 0.213119	 0.000000 
+Co2	 0.972544	 0.429625	 0.500000 
+Co3	 0.756038	 0.554625	 0.000000 
+Co4	 0.631038	 0.338119	 0.500000 
+Co5	 0.414532	 0.463119	 0.000000 
+Co6	 0.539532	 0.679625	 0.500000 
+Co7	 0.323025	 0.804625	 0.000000 
+Co8	 0.198025	 0.588119	 0.500000 
+Co9	 0.506038	 0.121612	 0.000000 
+Co10	 0.881038	 0.771131	 0.500000 
+Co11	 0.664532	 0.896131	 0.000000 
+Co12	 0.289532	 0.246612	 0.500000 
+Co13	 0.073025	 0.371612	 0.000000 
+#                 ---end-of-data-block---

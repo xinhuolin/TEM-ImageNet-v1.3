@@ -1,0 +1,30 @@
+data_C:\Users\admin\Documents\atomsegmentation_bupt_fullsuite_3\misc\04874.cif
+_cell_length_a               11.452600
+_cell_length_b               11.452600
+_cell_length_c               5.449400
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sc1	 0.762846	 0.585137	 0.000000 
+Sc2	 0.637846	 0.801643	 0.500000 
+Sc3	 0.463655	 0.412399	 0.000000 
+Sc4	 0.338655	 0.628905	 0.500000 
+Dy5	 0.423884	 0.135808	 0.017200 
+Dy6	 0.628425	 0.472484	 0.517200 
+Dy7	 0.503425	 0.688991	 0.982800 
+Dy8	 0.298884	 0.352314	 0.482800 
+Sc9	 0.887846	 0.368631	 0.500000 
+Sc10	 0.213655	 0.845412	 0.000000 
+Sc11	 0.588655	 0.195893	 0.500000 
+Dy12	 0.173884	 0.568820	 0.017200 
+Dy13	 0.378425	 0.905497	 0.517200 
+Dy14	 0.753425	 0.255978	 0.982800 
+Dy15	 0.048884	 0.785327	 0.482800 
+#                 ---end-of-data-block---

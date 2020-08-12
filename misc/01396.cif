@@ -1,0 +1,31 @@
+data_Single Layer of MoS2nx 3 ny 1 nz 1
+_cell_length_a               9.360000
+_cell_length_b               9.360000
+_cell_length_c               3.080000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S1	 0.381710	 0.173989	 1.000000 
+S2	 0.381710	 0.173989	 0.000000 
+Mo3	 0.282090	 0.545774	 0.500000 
+Mo4	 0.517793	 0.310072	 0.500000 
+S5	 0.467983	 0.495964	 1.000000 
+S6	 0.467983	 0.495964	 0.000000 
+S7	 0.703685	 0.260262	 1.000000 
+S8	 0.703685	 0.260262	 0.000000 
+Mo9	 0.604066	 0.632047	 0.500000 
+Mo10	 0.839768	 0.396345	 0.500000 
+S11	 0.789958	 0.582237	 1.000000 
+S12	 0.789958	 0.582237	 0.000000 
+Mo13	 0.926041	 0.718320	 0.500000 
+Mo14	 0.195817	 0.223799	 0.500000 
+S15	 0.146007	 0.409691	 1.000000 
+S16	 0.146007	 0.409691	 0.000000 
+#                 ---end-of-data-block---

@@ -1,0 +1,27 @@
+data_Amorphous Graphene 800 atoms
+_cell_length_a               8.000000
+_cell_length_b               8.000000
+_cell_length_c               8.000000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+C1	 0.304770	 0.018928	 0.000000 
+C2	 0.129069	 0.229706	 0.000000 
+C3	 0.415788	 0.165953	 0.000000 
+C4	 0.302763	 0.311268	 0.000000 
+C5	 0.592951	 0.124100	 0.000000 
+C6	 0.343041	 0.493953	 0.000000 
+C7	 0.768739	 0.205144	 0.000000 
+C8	 0.518229	 0.583974	 0.000000 
+C9	 0.723763	 0.526326	 0.000000 
+C10	 0.849913	 0.384571	 0.000000 
+C11	 0.820729	 0.680042	 0.000000 
+C12	 0.705475	 0.813151	 0.000000 
+#                 ---end-of-data-block---

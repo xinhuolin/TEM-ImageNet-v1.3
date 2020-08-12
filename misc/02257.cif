@@ -1,0 +1,21 @@
+data_A fcc partile with size of 6.4 A with 100/111/110 ratio of 1/0.893496/2
+_cell_length_a               11.760000
+_cell_length_b               11.760000
+_cell_length_c               11.760000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pt1	 0.604451	 0.614367	 0.500000 
+Pt2	 0.443464	 0.657503	 0.333333 
+Pt3	 0.400327	 0.496516	 0.500000 
+Pt4	 0.282476	 0.700640	 0.500000 
+Pt5	 0.486600	 0.818491	 0.500000 
+Pt6	 0.443464	 0.657503	 0.666667 
+#                 ---end-of-data-block---

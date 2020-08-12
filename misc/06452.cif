@@ -1,0 +1,30 @@
+data_STO [001]3x3x1
+_cell_length_a               11.715000
+_cell_length_b               11.715000
+_cell_length_c               3.905000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sr1	 0.424980	 0.194965	 0.000000 
+Ti2	 0.485984	 0.422636	 0.500000 
+Sr3	 0.258313	 0.483640	 0.000000 
+Ti4	 0.319318	 0.711311	 0.500000 
+Sr5	 0.091647	 0.772315	 0.000000 
+Ti6	 0.652651	 0.133961	 0.500000 
+Sr7	 0.713655	 0.361632	 0.000000 
+Ti8	 0.774659	 0.589303	 0.500000 
+Sr9	 0.546989	 0.650307	 0.000000 
+Ti10	 0.607993	 0.877978	 0.500000 
+Sr11	 0.380322	 0.938982	 0.000000 
+Ti12	 0.941326	 0.300627	 0.500000 
+Ti13	 0.197309	 0.255969	 0.500000 
+Sr14	 0.835664	 0.816973	 0.000000 
+Ti15	 0.030642	 0.544644	 0.500000 
+#                 ---end-of-data-block---

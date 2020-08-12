@@ -1,0 +1,23 @@
+data_Pt structure along [001] nx 1 ny 2 nz 1
+_cell_length_a               7.810000
+_cell_length_b               7.810000
+_cell_length_c               5.543717
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1	 0.592483	 0.671620	 0.000000 
+Sr2	 0.742458	 0.265409	 0.000000 
+Ti3	 0.500976	 0.330113	 0.500000 
+Sr4	 0.833964	 0.606915	 0.500000 
+Ti5	 0.109520	 0.801029	 0.000000 
+Sr6	 0.259495	 0.394818	 0.000000 
+Ti7	 0.018013	 0.459523	 0.500000 
+Sr8	 0.351001	 0.736325	 0.500000 
+#                 ---end-of-data-block---

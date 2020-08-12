@@ -1,0 +1,26 @@
+data_TiO2_rutile [100] nx 3 ny 2 nz 1
+_cell_length_a               9.188000
+_cell_length_b               9.188000
+_cell_length_c               4.594000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti1	 0.171906	 0.391608	 0.500000 
+Ti2	 0.307899	 0.127156	 0.000000 
+Ti3	 0.604918	 0.141608	 0.500000 
+Ti4	 0.035912	 0.656060	 0.000000 
+Ti5	 0.332931	 0.670512	 0.500000 
+Ti6	 0.468925	 0.406060	 0.000000 
+Ti7	 0.765944	 0.420512	 0.500000 
+Ti8	 0.196937	 0.934964	 0.000000 
+Ti9	 0.493956	 0.949416	 0.500000 
+Ti10	 0.629950	 0.684964	 0.000000 
+Ti11	 0.926969	 0.699416	 0.500000 
+#                 ---end-of-data-block---

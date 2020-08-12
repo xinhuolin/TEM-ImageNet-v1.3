@@ -1,0 +1,27 @@
+data_NiO [110] nx 2 ny 1 nz 1
+_cell_length_a               10.245000
+_cell_length_b               10.245000
+_cell_length_c               2.957500
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni1	 0.499632	 0.577325	 1.000000 
+Ni2	 0.215111	 0.626139	 0.000000 
+Ni3	 0.784125	 0.528532	 0.000000 
+Ni4	 0.607348	 0.351755	 0.500000 
+Ni5	 0.322855	 0.400548	 0.500000 
+Ni6	 0.391887	 0.802916	 0.500000 
+Ni7	 0.146079	 0.223771	 1.000000 
+Ni8	 0.568664	 0.979693	 0.000000 
+Ni9	 0.430572	 0.174978	 0.000000 
+Ni10	 0.960902	 0.705308	 0.500000 
+Ni11	 0.676409	 0.754101	 0.500000 
+Ni12	 0.038334	 0.449362	 0.500000 
+#                 ---end-of-data-block---

@@ -1,0 +1,29 @@
+data_Pt structure along [001] nx 2 ny 2 nz 1
+_cell_length_a               7.840000
+_cell_length_b               7.840000
+_cell_length_c               3.920000
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pt1	 0.150142	 0.222789	 0.000000 
+Pt2	 0.241648	 0.564296	 0.000000 
+Pt3	 0.366648	 0.347789	 0.500000 
+Pt4	 0.025142	 0.439296	 0.500000 
+Pt5	 0.491648	 0.131283	 0.000000 
+Pt6	 0.116648	 0.780802	 0.500000 
+Pt7	 0.275142	 0.006283	 0.500000 
+Pt8	 0.583155	 0.472789	 0.000000 
+Pt9	 0.674661	 0.814296	 0.000000 
+Pt10	 0.799661	 0.597789	 0.500000 
+Pt11	 0.458155	 0.689296	 0.500000 
+Pt12	 0.333155	 0.905802	 0.000000 
+Pt13	 0.924661	 0.381283	 0.000000 
+Pt14	 0.708155	 0.256283	 0.500000 
+#                 ---end-of-data-block---

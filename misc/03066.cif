@@ -1,0 +1,26 @@
+data_NiO [110] nx 2 ny 1 nz 1
+_cell_length_a               14.064000
+_cell_length_b               14.064000
+_cell_length_c               2.866200
+_cell_angle_alpha          90.000000
+_cell_angle_beta           90.000000
+_cell_angle_gamma          90.000000
+_symmetry_cell_setting          Triclinic
+_symmetry_space_group_name_H-M 'P 1' 
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1	 0.284330	 0.522366	 0.000000 
+Mn2	 0.169012	 0.655968	 0.500000 
+Mn3	 0.510207	 0.246975	 0.000000 
+Mn4	 0.625523	 0.113369	 0.500000 
+Mn5	 0.394890	 0.380580	 0.500000 
+Mn6	 0.463202	 0.832180	 0.000000 
+Mn7	 0.347883	 0.965783	 0.500000 
+Mn8	 0.919720	 0.289574	 0.000000 
+Mn9	 0.689078	 0.556790	 0.000000 
+Mn10	 0.804395	 0.423184	 0.500000 
+Mn11	 0.573761	 0.690395	 0.500000 
+#                 ---end-of-data-block---
